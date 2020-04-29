@@ -1,0 +1,12 @@
+Prerak Patel & Zabir Rahman
+Systems Programming
+Assignment 0: filesort.c
+
+
+testcases used: test.txt, test2.txt, test3.txt, test4.txt, test5.txt 
+
+test.txt & test2.txt: test.txt contained a small number of intergers while test2.txt contained a small number of strings. We used these files to make sure that our program was working with small-medium number of inputs. 
+
+test3.txt, test4.txt: files were used for much larger number of inputs of both ints and strings to make sure our program output correct results with larger # of inputs. We checked to make sure that quicksort was producing faster results than insertion sort on larger number of inputs to make sure our methods were definitely working properly.
+
+test5.txt: this file was an empty file and we wanted to make sure that we were outputting the proper error message when the given file was empty.
