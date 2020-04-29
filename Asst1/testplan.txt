@@ -1,0 +1,7 @@
+TestPlan:
+
+test1.txt: this file was used to test the -b on small sets of data.
+test2.txt: this file was used to test the compress and decompress functions on small sets of data.
+test3.txt: this file was medium sized and contained around 1000+ words. We used this file to test -b, -c, and -d to make sure our code worked with medium sized data.
+Directory Structure. We used the test cases mentiond and created a few more of various sizes to test recursion through directory structure. We nested some directories within others and created a tree sort of directory structure and we included testfiles within the directories and ran recursion to make sure our recursive method worked for nested directories and numerous files.
+test5.txt: this file was a large sized text file which contained the script of the Bee Movie and we ran -b,-c, and -d to make sure our code worked with large sized data.
